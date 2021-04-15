@@ -1,0 +1,3 @@
+get https://icanhazdadjoke.com
+User-Agent: something
+Accept: application/json
